@@ -3,4 +3,10 @@ b=5
 print(a*b)
 c=15
 d=5
-(c/d)
+print(c*d)
+
+
+for latter in 'pythan':
+    if letter == 'h':
+        break
+    print(letter)
