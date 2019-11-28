@@ -1,3 +1,3 @@
 a = ('apple')
 b = ('ball')
-x = a+b
+print(x) = a+b
